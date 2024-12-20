@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta tags for SEO -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Learn the basics and advanced concepts of SEO optimization to improve your website's ranking on search engines.">
+  <meta name="keywords" content="SEO optimization, Search Engine Optimization, SEO tutorial, website ranking, SEO basics">
+  <meta name="author" content="Your Name">
+
+  <!-- Title tag -->
+  <title>SEO Optimization Guide - Basics to Advanced</title>
+
+  <!-- Open Graph tags for social sharing -->
+  <meta property="og:title" content="SEO Optimization Guide - Basics to Advanced">
+  <meta property="og:description" content="Improve your website's ranking with our comprehensive SEO guide.">
+  <meta property="og:image" content="https://example.com/seo-guide-thumbnail.jpg">
+  <meta property="og:url" content="https://example.com/seo-guide">
+  <meta property="og:type" content="article">
+
+  <!-- Canonical link -->
+  <link rel="canonical" href="https://example.com/seo-guide">
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://example.com/favicon.ico" type="image/x-icon">
+
+  <!-- Styles -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #0073e6;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    a {
+      color: #0073e6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .highlight {
+      color: red;
+      font-weight: bold;
+    }
+
+    /* Button styles */
+    .btn {
+      padding: 10px 20px;
+      background-color: #0073e6;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    .btn:hover {
+      background-color: #005bb5;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>SEO Optimization Guide</h1>
+    <p>Your go-to resource for mastering search engine optimization.</p>
+  </header>
+
+  <!-- Main content -->
+  <main>
+    <section>
+      <h2 id="what-is-seo">What is SEO? hi </h2>
+      <p>Search Engine Optimization (SEO) is the process of improving the visibility of your website in search engine results pages (SERPs).</p>
+      <img src="https://example.com/seo-illustration.jpg" alt="SEO Illustration">
+    </section>
+
+    <section>
+      <h2>Why is SEO Important?</h2>
+      <p>SEO helps drive organic traffic to your website, improves user experience, and boosts your site's credibility.</p>
+    </section>
+
+    <section>
+      <h2>SEO Best Practices</h2>
+      <ul>
+        <li>Conduct keyword research to target relevant search terms.</li>
+        <li>Optimize meta titles, descriptions, and headers.</li>
+        <li>Use alt attributes for images.</li>
+        <li>Ensure your site is mobile-friendly and loads quickly.</li>
+        <li>Create high-quality, original content.</li>
+      </ul>
+    </section>
+
+    <!-- Button to dynamically change content -->
+    <button class="btn" id="changeContentBtn">Click to Learn SEO Tip</button>
+    <p id="seoTip"></p>
+
+    <!-- Internal link -->
+    <p>Learn more about <a href="/advanced-seo-tips">Advanced SEO Tips</a>.</p>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 Your Website. All rights reserved.</p>
+  </footer>
+
+  <!-- JavaScript Section -->
+  <script>
+    // Change content dynamically when the button is clicked
+    document.getElementById('changeContentBtn').addEventListener('click', function() {
+      const seoTip = document.getElementById('seoTip');
+      seoTip.textContent = "SEO Tip: Regularly update your content to keep it fresh and relevant!";
+      seoTip.classList.add('highlight'); // Highlight the tip text
+    });
+
+    // Example of smooth scroll for internal navigation
+    document.getElementById('what-is-seo').addEventListener('click', function() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    });
+  </script>
+</body>
+</html>
