@@ -1,0 +1,89 @@
+Documentation Procedure for Design in Top MNCs
+1. Initial Requirements Documentation
+Purpose: To capture project requirements from stakeholders and clients.
+Key Components:
+Project goals and objectives.
+Functional and non-functional requirements.
+Business use cases and constraints.
+Formats/Tools Used:
+Requirement Specification Documents (e.g., PRD or SRS).
+Tools: Jira, Confluence, Microsoft Word, or Google Docs.
+2. Research and Analysis Documentation
+Purpose: To document research findings and analyses that inform design decisions.
+Key Components:
+Market research and competitor analysis.
+User research (interviews, surveys, personas).
+SWOT analysis or feasibility studies.
+Formats/Tools Used:
+Research reports, UX research tools (e.g., Dovetail, Lookback).
+3. Design Brief/Concept Documentation
+Purpose: To outline the high-level vision and scope of the design.
+Key Components:
+Design goals and challenges.
+Key performance indicators (KPIs).
+Design constraints and assumptions.
+Formats/Tools Used:
+Concept briefs or strategy decks.
+4. Wireframes and Prototypes Documentation
+Purpose: To create and share early design drafts.
+Key Components:
+Low-fidelity sketches and wireframes.
+High-fidelity interactive prototypes.
+Annotations explaining interaction logic.
+Formats/Tools Used:
+Figma, Adobe XD, Sketch, Balsamiq.
+5. Design Specifications Documentation
+Purpose: To provide detailed specifications for development.
+Key Components:
+Layout details (grids, spacing, alignment).
+Typography, colors, and style guides.
+Interaction behaviors (animations, transitions).
+Accessibility standards.
+Formats/Tools Used:
+Design system tools (Zeplin, Abstract, Figma specs).
+6. Design Review Documentation
+Purpose: To record feedback and revisions during review cycles.
+Key Components:
+Initial design drafts with stakeholder comments.
+Iterative updates and resolutions.
+Final approved designs.
+Formats/Tools Used:
+Review notes in tools like Miro, Confluence, or directly in design tools.
+7. Handoff Documentation
+Purpose: To ensure smooth transition from design to development.
+Key Components:
+Detailed design handoff notes.
+Asset delivery (icons, illustrations, images).
+Links to design systems and style guides.
+Formats/Tools Used:
+Tools like Zeplin, InVision, or Figma Handoff.
+8. Testing and Validation Documentation
+Purpose: To validate the design during usability testing and quality assurance.
+Key Components:
+Usability testing scripts and findings.
+A/B test results and analysis.
+Bug tracking and fixes related to design.
+Formats/Tools Used:
+Usability testing tools (UsabilityHub, Maze), bug trackers (Jira, Bugzilla).
+9. Final Design Documentation
+Purpose: To archive and document the final approved designs.
+Key Components:
+Final screens and prototypes.
+Design rationale and decisions.
+Lessons learned and future recommendations.
+Formats/Tools Used:
+Version-controlled repositories or knowledge bases (e.g., Confluence, Git).
+10. Continuous Updates and Maintenance
+Purpose: To maintain and update the design documentation for future iterations.
+Key Components:
+Version history of design updates.
+Retrospectives and post-launch improvements.
+Formats/Tools Used:
+Collaborative tools (Notion, Google Workspace, Microsoft Teams).
+Best Practices for Design Documentation
+Consistency: Use standardized templates and naming conventions.
+Version Control: Maintain a clear record of design iterations.
+Collaborative Tools: Use tools that allow real-time collaboration and feedback.
+User-Centric Focus: Ensure documentation captures user research and goals.
+Stakeholder Engagement: Keep stakeholders involved and updated throughout.
+Accessible Design Systems: Centralize style guides, components, and reusable assets.

@@ -1,0 +1,399 @@
+1. Number Series
+Arithmetic Series:
+Formula: 
+𝑎
+𝑛
+=
+𝑎
+1
++
+(
+𝑛
+−
+1
+)
+𝑑
+a 
+n
+​
+ =a 
+1
+​
+ +(n−1)d
+(
+𝑎
+𝑛
+a 
+n
+​
+ : nth term, 
+𝑎
+1
+a 
+1
+​
+ : first term, 
+𝑑
+d: common difference)
+
+Geometric Series:
+Formula: 
+𝑎
+𝑛
+=
+𝑎
+1
+⋅
+𝑟
+𝑛
+−
+1
+a 
+n
+​
+ =a 
+1
+​
+ ⋅r 
+n−1
+ 
+(
+𝑟
+r: common ratio)
+
+Sum of n terms:
+
+Arithmetic: 
+𝑆
+𝑛
+=
+𝑛
+2
+⋅
+(
+𝑎
+1
++
+𝑎
+𝑛
+)
+S 
+n
+​
+ = 
+2
+n
+​
+ ⋅(a 
+1
+​
+ +a 
+n
+​
+ )
+Geometric: 
+𝑆
+𝑛
+=
+𝑎
+1
+⋅
+(
+1
+−
+𝑟
+𝑛
+)
+(
+1
+−
+𝑟
+)
+S 
+n
+​
+ =a 
+1
+​
+ ⋅ 
+(1−r)
+(1−r 
+n
+ )
+​
+  (
+𝑟
+≠
+1
+r
+
+=1)
+Shortcut Patterns:
+
+Squares: 
+1
+,
+4
+,
+9
+,
+16
+,
+…
+1,4,9,16,… (
+𝑛
+2
+n 
+2
+ )
+Cubes: 
+1
+,
+8
+,
+27
+,
+64
+,
+…
+1,8,27,64,… (
+𝑛
+3
+n 
+3
+ )
+Fibonacci: 
+1
+,
+1
+,
+2
+,
+3
+,
+5
+,
+8
+,
+…
+1,1,2,3,5,8,… (
+𝑎
+𝑛
+=
+𝑎
+𝑛
+−
+1
++
+𝑎
+𝑛
+−
+2
+a 
+n
+​
+ =a 
+n−1
+​
+ +a 
+n−2
+​
+ )
+2. Letter and Symbol Series
+Position Formula:
+Convert letters to positions: 
+𝐴
+=
+1
+,
+𝐵
+=
+2
+,
+…
+,
+𝑍
+=
+26
+A=1,B=2,…,Z=26. For reverse order: 
+𝐴
+=
+26
+,
+𝐵
+=
+25
+,
+…
+,
+𝑍
+=
+1
+A=26,B=25,…,Z=1.
+
+Shifts:
+
+Forward Shift: Add 
+𝑛
+n (e.g., 
+𝐴
++
+3
+=
+𝐷
+A+3=D).
+Backward Shift: Subtract 
+𝑛
+n (e.g., 
+𝐷
+−
+3
+=
+𝐴
+D−3=A).
+Cyclic Patterns:
+Use modulo: 
+𝑛
+m
+o
+d
+ 
+ 
+26
+nmod26 for cyclic shifts (e.g., 
+𝑍
++
+1
+=
+𝐴
+Z+1=A).
+
+3. Statement and Assumption
+Golden Rule:
+The assumption must be implicit and necessary for the statement to hold true. Avoid assumptions with external facts.
+4. Cause and Effect
+Checklist:
+Direct Link: If A causes B, B cannot happen without A.
+Eliminate Coincidence: Check if both A and B have a common cause or no relationship.
+5. Logical Deductions (Syllogisms)
+Basic Rules for Statements:
+
+Universal Affirmative: 
+𝐴
+→
+𝐵
+A→B
+Universal Negative: 
+𝐴
+↛
+𝐵
+A
+
+→B
+Particular Affirmative: 
+𝐴
+∩
+𝐵
+≠
+𝜙
+A∩B
+
+=ϕ
+Particular Negative: 
+𝐴
+∩
+𝐵
+=
+𝜙
+A∩B=ϕ
+Immediate Inferences:
+
+𝐴
+→
+𝐵
+A→B implies 
+¬
+𝐵
+→
+¬
+𝐴
+¬B→¬A (Contrapositive)
+If 
+𝐴
+→
+𝐵
+A→B and 
+𝐵
+→
+𝐶
+B→C, then 
+𝐴
+→
+𝐶
+A→C (Transitive Property)
+6. Analogies
+Types of Relationships to Memorize:
+Synonyms/Antonyms (big : large :: small : tiny)
+Cause-Effect (fire : smoke :: rain : flood)
+Part-Whole (wheel : car :: petal : flower)
+7. Logical Problems
+Work Formulas:
+Work = Rate × Time
+Example: If 2 people can do a job in 4 days, then 
+1
+/
+(
+2
+⋅
+4
+)
+=
+1
+/
+8
+1/(2⋅4)=1/8 work/day.
+8. Statement and Conclusion
+Key Rule: A conclusion is valid only if it directly follows the statement without any extra assumption.
+9. Statement and Argument
+Strong Argument:
+Relevant, logical, and fact-based.
+Weak Argument:
+Emotional, vague, or not directly related.
+10. Cause and Effect
+Direct Formula:
+𝐴
+ causes 
+𝐵
+  
+⟹
+  
+𝐵
+A causes B⟹B cannot happen independently of 
+𝐴
+A.
+11. Matching Definitions
+Memorization Strategy: Learn definitions and examples of common terms such as:
+"Ecosystem" includes "living and non-living components."
+"Parliament" includes "members and legislation."
+12. Logical Games
+Grid Formation Rule: Use rows/columns for each element and eliminate options based on clues.
+13. Verbal Reasoning
+Common Connectors to Remember:
+"Hence," "Therefore," "Thus" indicate conclusions.
+"Because," "Since" indicate premises.
+14. Analyzing Arguments
+Key Formula:
+Break the argument into:
+Premises (facts, evidence)
+Conclusion (what it leads to)
+15. Theme Detection
+Focus Rule:
+The theme must be the central, repeated idea across all parts.
+16. Logical Deduction
+Venn Diagram Formula:
+Use overlaps to identify shared and exclusive elements.
+17. Course of Action
+Checklist:
+Practicality: Can it be implemented?
+Relevance: Does it solve the problem?
+While there aren’t formulas like in math, these structured rules and patterns serve as “mental formulas” to memorize and apply. If you want tailored tips for any specific type, let me know!
